@@ -791,7 +791,7 @@ header.main-header.box-layout {
     background-color: #ffffff;
     background-position: center center;
     background-repeat: no-repeat;
-    background-image: url(../images/icon/preloader.gif);
+    background-image: url(../images/logo/logo.svg);
 }
 
 .preloader.style-two {
@@ -4993,6 +4993,7 @@ select:focus {
     display: block;
     background: #ffffff;
     padding: 0px 0 120px;
+    margin-top: 80px;
 }
 
 .faq-image-box {

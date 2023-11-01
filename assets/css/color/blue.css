@@ -10,19 +10,19 @@
 .twitter-feed-box .bottom .comments a i,
 .single-service-style3 .overlay-content .title-holder p,
 .slogan-content .quote-button a,
-.mobile-menu .navigation li.current > a,
-.mobile-menu .navigation li > a:hover,
-.main-menu .navigation > li > ul > li > a:hover,
-.main-menu .navigation > li > ul > li > a:before,
-.main-menu .navigation > li > ul > li:hover > a,
-.main-menu .navigation > li > ul > li > ul > li > a:hover,
-.main-menu .navigation > li > ul > li > ul > li a:before,
-.main-menu.style2 .navigation > li:hover > a,
-.main-menu.style2 .navigation > li.current > a,
-.main-menu.style2.clr-white .navigation > li:hover > a,
-.main-menu.style2.clr-white .navigation > li.current > a,
-.sticky-header .main-menu .navigation > li:hover > a,
-.sticky-header .main-menu .navigation > li.current > a,
+.mobile-menu .navigation li.current>a,
+.mobile-menu .navigation li>a:hover,
+.main-menu .navigation>li>ul>li>a:hover,
+.main-menu .navigation>li>ul>li>a:before,
+.main-menu .navigation>li>ul>li:hover>a,
+.main-menu .navigation>li>ul>li>ul>li>a:hover,
+.main-menu .navigation>li>ul>li>ul>li a:before,
+.main-menu.style2 .navigation>li:hover>a,
+.main-menu.style2 .navigation>li.current>a,
+.main-menu.style2.clr-white .navigation>li:hover>a,
+.main-menu.style2.clr-white .navigation>li.current>a,
+.sticky-header .main-menu .navigation>li:hover>a,
+.sticky-header .main-menu .navigation>li.current>a,
 .outer-search-box-style1 .seach-toggle:hover,
 .outer-search-box-style1 .seach-toggle.active,
 .single-footer-widget .page-links li a:hover,
@@ -33,13 +33,7 @@
 .about-style1-text-box .title p,
 .about-style1-text-box .title h1 b,
 .login-register-area .form .right h6 span,
-.single-service-style2
-  .overlay-content
-  .inner-content
-  .text-holder
-  .title
-  h3
-  a:hover,
+.single-service-style2 .overlay-content .inner-content .text-holder .title h3 a:hover,
 .single-fact-counter .count-box h1,
 .project-filter li:hover .filter-text,
 .project-filter li.active .filter-text,
@@ -88,16 +82,16 @@
   color: #6377ee;
 }
 
-.main-menu.style4 .navigation > li:hover > a,
-.main-menu.style4 .navigation > li.current > a,
+.main-menu.style4 .navigation>li:hover>a,
+.main-menu.style4 .navigation>li.current>a,
 .service-style4-area .title h1 a,
 .about-style4-text-box .inner-contant ul li:before,
 .portfolio-item-style4-content .title-holder span.tag,
 .single-price-box .title h3,
 .header-social-links-style5 .social-links-style2 li a:hover,
 .header-contact-info-style5 li .title h5 a:hover,
-.main-menu.style5 .navigation > li:hover > a,
-.main-menu.style5 .navigation > li.current > a,
+.main-menu.style5 .navigation>li:hover>a,
+.main-menu.style5 .navigation>li.current>a,
 .quote-button-style5 a,
 .service-style6-area .title h1 a,
 .single-service-style6 .text-holder .icon,
@@ -108,15 +102,17 @@
   color: #6377ee;
 }
 
+
 /*==============================================
    Theme Background Css
 ===============================================*/
+
 .thm_bgclr1,
 .social-links-style1 li a:hover i,
-.main-menu .navigation > li > a span.homeicon,
+.main-menu .navigation>li>a span.homeicon,
 .single-portfolio-style1 .img-holder .title-holder:before,
 .testimonial-style1-title-box:before,
-.main-menu.style2 .navigation > li > a span.homeicon,
+.main-menu.style2 .navigation>li>a span.homeicon,
 .single-service-style3 .overlay-content .icon-holder,
 .video-holder-box-style3 a span:before,
 .slogan-area,
@@ -200,18 +196,17 @@
 .service-style6-area .title h1 a:before,
 .single-service-style6 .img-holder .inner:before,
 .service-style7-text-box .button-box a,
-.testimonial-style5-area
-  .owl-nav-style-one.owl-theme
-  .owl-nav
-  [class*="owl-"]:hover,
+.testimonial-style5-area .owl-nav-style-one.owl-theme .owl-nav [class*="owl-"]:hover,
 .single-service-style5 .icon:before,
 .single-testimonial-style4 .inner-content .quote-box:before {
   background: #6377ee;
 }
 
+
 /*==============================================
    Theme Border Color Css
 ===============================================*/
+
 .login-register-area .form button:hover,
 .login-register-area .form .social-icon li a:hover i,
 .share-products-socials ul li a:hover i,
@@ -227,58 +222,70 @@
 .single-testimonial-style1.style3 .client-info .icon-box span:before {
   border: 1px solid #6377ee;
 }
+
 .scroll-top {
   border: 2px solid #6377ee;
 }
+
 .btn-one {
   border: 2px solid #6377ee;
 }
+
 .btn-one:hover,
 .btn-one:focus {
   border: 2px solid #6377ee;
 }
+
 .single-blog-post-style3.withbdr {
   border: 5px solid #6377ee;
 }
-.mobile-menu .navigation li > a:before {
+
+.mobile-menu .navigation li>a:before {
   border-left: 5px solid #6377ee;
 }
+
 .single-product-item .img-holder .product-info:before {
   border-right: 20px solid #6377ee;
 }
+
 .service-style1-area .title h1 a {
   border-bottom: 1px solid #6377ee;
 }
+
 .single-service-style2 .img-holder .static-content .title:before {
   border: 2px solid #6377ee;
 }
-.single-service-style2
-  .overlay-content
-  .inner-content
-  .text-holder
-  .title:before {
+
+.single-service-style2 .overlay-content .inner-content .text-holder .title:before {
   border: 2px solid #6377ee;
 }
+
 .video-galler-outer-bg:before {
   background-color: rgba(99, 119, 238, 0.8);
 }
+
 .main-slider .content h3:before {
   background: rgba(99, 119, 238, 0.4);
 }
+
 .single-portfolio-slider .slider-pager .thumb-box li a .img-holder:before {
   background: rgba(99, 119, 238, 0.5);
 }
+
 .single-product-image-holder .slider-pager .thumb-box li .img-holder:before {
   background: rgba(99, 119, 238, 0.7);
 }
+
 .single-service-style1 .text-holder .count-box {
   background: #dce1fb;
 }
+
 .about-style1-text-box.style2 .title h1 span {
   background: #7b8cf6;
 }
-.main-menu .navigation > li:hover > a,
-.main-menu .navigation > li.current > a {
+
+.main-menu .navigation>li:hover>a,
+.main-menu .navigation>li.current>a {
   color: #fff;
 }
 
@@ -286,12 +293,15 @@
 .single-portfolio-style5 .title-holder span.tag {
   background: rgba(99, 119, 238, 0.2);
 }
+
 .single-service-style7:before {
   border: 2px solid #6377ee;
 }
+
 .single-testimonial-style4 .inner-content .arrow {
   display: none;
 }
+
 .single-testimonial-style4 .inner-content .arrow2 {
   display: none;
 }
